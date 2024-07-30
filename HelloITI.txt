@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+
+class HelloITI{
+public:
+
+void HiITI(){
+
+cout<<"Hello ITI"/n;
+}
+};
