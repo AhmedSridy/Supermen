@@ -8,4 +8,8 @@ void HiITI(){
 
 cout<<"Hello ITI"/n;
 }
+void HelloGit(){
+cout<<"Hello Git/n;
+}
+
 };
